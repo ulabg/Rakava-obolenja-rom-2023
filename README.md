@@ -9,7 +9,8 @@ NACRT PROJEKTA:
 4. Vrste rakavih obolenj sem analizirala tako, da sem pri prvem diagramu predstavila nekaj zelo pogostih vrst rakavih obolenj. Naslednja dva diagrama predstavljata koliko primerov pri določenih vrstah je bilo pri moških in koliko pri ženskah.
 5. Rakava obolenja v Sloveniji, sem analizirala tako, a sem najprej s stolpčnim diagramom analizirala število primerov glede na starost za leto 2020, nato sem narisala krivuljo, ki predstavlja število primerov skozi leta od 2000 do 2020. Zadnji diagram pa predstavlja incidenco, umrljivost ter prevelenco Slovenije v letu 2020.
 
-MATHEMATICA:
+APLIKACIJA:
+Na Wolfram Cloud sem shranila projektno nalogo. Dostopna je na spodnji povezavi
 
 https://www.wolframcloud.com/env/ub2972/RAKAVA%20OBOLENJA%20V%20SLOVENIJI%20IN%20SVETU%20.nb
 
