@@ -3,7 +3,7 @@ Ta repozitorij vsebuje projektno nalogo, v katerem sem analizirala rakava obolen
 Pri projektu uporabljamo računalniški program Mathematica.
 
 NACRT PROJEKTA:
-1. Pridobivanje podatkov. Uporabila sem spletno stran WORLD CANCER REASRCH FUND INTERNATIONAL, ter podatke o Sloveniji iz ONKOLOŠKI INSTITUT SLOVENIJE in spletna stran SLORA.
+1. Pridobivanje podatkov. Uporabila sem spletno stran WORLD CANCER REASRCH FUND INTERNATIONAL, ter podatke o Sloveniji iz ONKOLOŠKI INSTITUT SLOVENIJE in spletne strani SLORA.
 2. Uvod splosnja razlaga raka oz. napoved kaj projektna naloga vsebuje
 3. Casovna anliza rakavih obolenj po svetu od leta 2000 do leta 2020. Narisana je krivulja. Torni diagram predstavlja razdelitev stevila primerov po spolu za leto 2020.
 4. Vrste rakavih obolenj sem analizirala tako, da sem pri prvem diagramu predstavila nekaj zelo pogostih vrst rakavih obolenj. Naslednja dva diagrama predstavljata koliko primerov pri določenih vrstah je bilo pri moških in koliko pri ženskah.
