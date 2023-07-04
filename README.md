@@ -13,7 +13,7 @@ APLIKACIJA:
 
 Na Wolfram Cloud sem shranila projektno nalogo. Dostopna je na spodnji povezavi
 
-https://www.wolframcloud.com/env/ub2972/RAKAVA%20OBOLENJA%20V%20SLOVENIJI%20IN%20SVETU%20.nb
+https://www.wolframcloud.com/obj/a9f02f96-fc85-4596-9378-950d852d4bd6
 
 VIDEOPOSNETEK:
 
