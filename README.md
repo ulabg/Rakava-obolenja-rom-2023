@@ -10,6 +10,7 @@ NACRT PROJEKTA:
 5. Rakava obolenja v Sloveniji, sem analizirala tako, da sem najprej s stolpčnim diagramom predstavila število primerov glede na starost za leto 2020, nato sem narisala krivuljo, ki predstavlja število primerov skozi leta od 2000 do 2020. Zadnji diagram pa predstavlja incidenco, umrljivost ter prevelenco Slovenije v letu 2020.
 
 APLIKACIJA:
+
 Na Wolfram Cloud sem shranila projektno nalogo. Dostopna je na spodnji povezavi
 
 https://www.wolframcloud.com/env/ub2972/RAKAVA%20OBOLENJA%20V%20SLOVENIJI%20IN%20SVETU%20.nb
